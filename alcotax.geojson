@@ -3,8 +3,7 @@
     "features": [{
         "type": "Feature",
         "properties": {
-            "foo": 42,
-            "fill": "#880000"
+            "foo": "bar",
         },
         "geometry": {
             "type": "Polygon",
