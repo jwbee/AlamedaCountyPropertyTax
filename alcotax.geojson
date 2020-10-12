@@ -1,34 +1,25 @@
 { "type": "FeatureCollection",
   "features": [
     { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [102.0, 0.5]},
-      "properties": {"prop0": "value0"}
-      },
-    { "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [102.0, 0.0], [103.0, 1.0], [104.0, 0.0], [105.0, 1.0]
-          ]
-        },
-      "properties": {
-        "prop0": "value0",
-        "prop1": 0.0
-        }
-      },
-    { "type": "Feature",
        "geometry": {
          "type": "Polygon",
          "coordinates": [
-           [ [100.0, 0.0], [101.0, 0.0], [101.0, 1.0],
-             [100.0, 1.0], [100.0, 0.0] ]
-           ]
+                [
+                    [-122.24881868505905, 37.84826227459027],
+                    [-122.24874300019974, 37.84813876913275],
+                    [-122.2484314941036, 37.84825879951248],
+                    [-122.24850717896292, 37.84838230476901],
+                    [-122.24881868505905, 37.84826227459027]
+                ]
+            ]
 
        },
        "properties": {
-         "prop0": "value0",
-         "prop1": {"this": "that"}
-         }
+         "Address": "6226 CHABOT RD OAKLAND",
+         "Net Assessment": 1631565,
+         "fill": "#800",
+         "stroke-width": 0
+       }
        }
     ]
   }
