@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"name": "Untitled layer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "EMS Division", "description": "Oakland Fire EMS                                                               37 Clay St." }, "geometry": { "type": "Point", "coordinates": [ -122.279946, 37.795805 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 1", "description": "1603 M.L. King Jr. Way <br>Oakland, CA. 94612" }, "geometry": { "type": "Point", "coordinates": [ -122.275268, 37.80797 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 3", "description": "1445 14th Street<br>Oakland CA. 94607" }, "geometry": { "type": "Point", "coordinates": [ -122.2926, 37.810924 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 4", "description": "1235 International Blvd.  ( East 14th St.)<br>Oakland CA.  94606" }, "geometry": { "type": "Point", "coordinates": [ -122.247705, 37.790099 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 5", "description": "934   34th Street<br>Oakland, CA 94608" }, "geometry": { "type": "Point", "coordinates": [ -122.276132, 37.824951 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 6", "description": "70880 Colton Blvd<br>Oakland CA." }, "geometry": { "type": "Point", "coordinates": [ -122.197894, 37.839797 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 7", "description": "1006 Amito Dr.<br>Oakland, CA." }, "geometry": { "type": "Point", "coordinates": [ -122.234319, 37.860461 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 8", "description": "463  51st   Street<br>Oakland CA. 94609" }, "geometry": { "type": "Point", "coordinates": [ -122.261331, 37.83693 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 10", "description": "172 Santa Clara Ave.<br>Oakland Ca. 94610" }, "geometry": { "type": "Point", "coordinates": [ -122.25244, 37.818573 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 12", "description": "822 Alice Street <br>Oakland, CA. 94607" }, "geometry": { "type": "Point", "coordinates": [ -122.268656, 37.798675 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 13", "description": "1225 Derby Avenue  <br>Oakland  CA. 94601" }, "geometry": { "type": "Point", "coordinates": [ -122.228045, 37.777435 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 15", "description": "455  27th St.  <br>Oakland  CA" }, "geometry": { "type": "Point", "coordinates": [ -122.266336, 37.815768 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 16", "description": "3600  13th Ave.  Oakland  CA" }, "geometry": { "type": "Point", "coordinates": [ -122.230338, 37.803045 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 17", "description": "3344 High St.  Oakland  CA" }, "geometry": { "type": "Point", "coordinates": [ -122.197339, 37.785858 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 18", "description": "1700  50th Ave.   <br>Oakland  CA" }, "geometry": { "type": "Point", "coordinates": [ -122.206713, 37.772086 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 19", "description": "5776 Miles Avenue<br>Oakland, CA. 94618" }, "geometry": { "type": "Point", "coordinates": [ -122.249661, 37.845901 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 20", "description": "1401  98th Ave. <br>Oakland  CA" }, "geometry": { "type": "Point", "coordinates": [ -122.170324, 37.74464 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 21", "description": "13150  Skyline  Blvd.  <br>Oakland  CA" }, "geometry": { "type": "Point", "coordinates": [ -122.149786, 37.789427 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 22", "description": "751 Air Cargo Way<br>Oakland,  CA. 94621" }, "geometry": { "type": "Point", "coordinates": [ -122.221586, 37.714536 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 23", "description": "7100 Foothill Blvd.<br>Oakland,  CA.  94605" }, "geometry": { "type": "Point", "coordinates": [ -122.17354, 37.769449 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 24", "description": "5900 Shepherd Canyon Rd, <br>Oakland,  Ca.  94611" }, "geometry": { "type": "Point", "coordinates": [ -122.203492, 37.823661 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 25", "description": "2795 Butters Drive <br>Oakland,  Ca.  94602" }, "geometry": { "type": "Point", "coordinates": [ -122.191382, 37.809252 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 26", "description": "2611 98th Ave.  <br>Oakland,  Ca.  94605" }, "geometry": { "type": "Point", "coordinates": [ -122.155773, 37.751331 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 27", "description": "8501 Pardee Drive  <br>Oakland,  Ca.  94621" }, "geometry": { "type": "Point", "coordinates": [ -122.201338, 37.730093 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 28", "description": "4615 Grass Valley Road  <br>Oakland,  Ca.  94605" }, "geometry": { "type": "Point", "coordinates": [ -122.123136, 37.751211 ] } },
+{ "type": "Feature", "properties": { "Name": "Station 29", "description": "1016  66th Ave.  <br>Oakland,  Ca.  94605" }, "geometry": { "type": "Point", "coordinates": [ -122.197749, 37.759133 ] } }
+]
+}
